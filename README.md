@@ -1,0 +1,1 @@
+# Just me following the [Rust Book](https://doc.rust-lang.org/book) 🦀!
