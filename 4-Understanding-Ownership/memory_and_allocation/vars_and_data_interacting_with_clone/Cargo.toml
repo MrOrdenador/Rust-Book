@@ -1,0 +1,6 @@
+[package]
+name = "vars_and_data_interacting_with_clone"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
